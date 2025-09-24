@@ -10,7 +10,7 @@ To design and simulate basic flip-flops (SR, D, JK, and T) using **blocking stat
 ## DESCRIPTION
 Flip-flops are the basic memory elements in sequential circuits.  
 In this experiment, different types of flip-flops (SR, D, JK, T) are modeled using **behavioral modeling** with **blocking assignment (`=`)** inside the `always` block.  
-Blocking assignments execute sequentially in the given order, which makes it easier to describe simple synchronous circuits.
+Blocking assignments execute sequentially in the gi ven order, which makes it easier to describe simple synchronous circuits.
 
 ## PROCEDURE
 1. Open **Vivado 2023.1**.  
